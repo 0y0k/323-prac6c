@@ -25,4 +25,4 @@ Docker CLI
 #### 2. access the service locally
    <code>kubectl port-forward service/node-web-service 8081:3000</code>
 
-Navigate to http://localhost:8081.
+Navigate to <code>http://localhost:8081</code>
